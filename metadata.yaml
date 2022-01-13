@@ -1,0 +1,36 @@
+_repo: A-Woman-Ventures_67130
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Hurlbut, William James
+    gutenberg_agent_id: '54123'
+    url: http://www.gutenberg.org/2009/agents/54123
+creator:
+  author:
+    agent_name: Phillips, David Graham
+    alias: Graham, John
+    birthdate: 1867
+    deathdate: 1911
+    gutenberg_agent_id: '235'
+    url: http://www.gutenberg.org/2009/agents/235
+    wikipedia: https://en.wikipedia.org/wiki/David_Graham_Phillips
+description: ''
+gutenberg_issued: '2022-01-09'
+identifiers:
+  gutenberg: '67130'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=uc2.ark:/13960/t2w37m56p&view=1up&seq=5
+pgterms:marc905: 20210321172006phillips
+pgterms:marc906: '1902'
+pgterms:marc907: US
+production_note: D A Alexander, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by University of California libraries)
+publication_note: United States :Grossett & Dunlap,1902.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: A Woman Ventures
+url: http://www.gutenberg.org/ebooks/67130
