@@ -5,6 +5,9 @@ contributor:
     agent_name: Hurlbut, William James
     gutenberg_agent_id: '54123'
     url: http://www.gutenberg.org/2009/agents/54123
+covers:
+- cover_type: archival
+  image_path: 67130-h/images/cover.jpg
 creator:
   author:
     agent_name: Phillips, David Graham
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/235
     wikipedia: https://en.wikipedia.org/wiki/David_Graham_Phillips
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67130#A-Woman-Ventures
 gutenberg_issued: '2022-01-09'
 identifiers:
   gutenberg: '67130'
